@@ -1,0 +1,5 @@
+This first question is dumb.  I want to learn how to use git not write about stupid shit.
+
+If you make a mistake you can go back and easily figure out what you did.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?  The files in the staging area are tracked and ready to commit.
