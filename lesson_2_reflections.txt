@@ -3,3 +3,9 @@ This first question is dumb.  I want to learn how to use git not write about stu
 If you make a mistake you can go back and easily figure out what you did.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?  The files in the staging area are tracked and ready to commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I don't know.  That's a dumb question.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to try out a new feature that you are not sure you want to use.  For experimenting.
