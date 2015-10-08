@@ -8,3 +8,5 @@ Clones are copies of respositories that can be between github and local or local
 Branches are used for developing new features are trying new things that you might not want to bring into the master.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can then merge at a later time and you have all the data to review.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without Git or GitHub you would probably just share through email and have to mark-up and highlight the changes.  I think Git is much better once you use it enough to get good at it.
